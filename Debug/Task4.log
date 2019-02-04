@@ -1,0 +1,4 @@
+﻿  winmain.c
+d:\spbpu\gandi\task4\winmain.c(57): warning C4715: 'WinMain': not all control paths return a value
+  Task4.vcxproj -> D:\SPbPU\Gandi\Task4\Debug\Task4.exe
+  Task4.vcxproj -> D:\SPbPU\Gandi\Task4\Debug\Task4.pdb (Full PDB)
